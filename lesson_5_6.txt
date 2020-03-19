@@ -1,0 +1,3 @@
+Literature: 10(l) 20(pr) 30(lab)
+Physic: 5(l) - 1(lab)
+Sport: - 10(pr) -
